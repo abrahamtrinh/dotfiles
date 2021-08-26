@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/Users/abraham/OneDrive/Documents/day.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e1e19",
+        "foreground": "#e9e0c8",
+        "cursor": "#e9e0c8"
+    },
+    "colors": {
+        "color0": "#0e1e19",
+        "color1": "#5C886E",
+        "color2": "#A38F6A",
+        "color3": "#D2A66A",
+        "color4": "#51898C",
+        "color5": "#AEAB8E",
+        "color6": "#D2B38D",
+        "color7": "#e9e0c8",
+        "color8": "#a39c8c",
+        "color9": "#5C886E",
+        "color10": "#A38F6A",
+        "color11": "#D2A66A",
+        "color12": "#51898C",
+        "color13": "#AEAB8E",
+        "color14": "#D2B38D",
+        "color15": "#e9e0c8"
+    }
+}
